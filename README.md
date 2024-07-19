@@ -2,7 +2,7 @@ This Java-based project allows users to manage and control smart home devices. F
 
 # Smart Home Automation System
 
-This project is a Smart Home Automation System implemented in Java. It allows users to manage and control various devices within their smart home. Users can register, log in, add devices, toggle device statuses, group devices, and schedule device operations.
+This project is a Smart Home Automation System implemented in Java. It allows users to manage and control various devices within their smart home. Users can register, log in, add devices, toggle device statuses, group devices, and schedule device operations.kishore is a gay
 
 ## Features
 
